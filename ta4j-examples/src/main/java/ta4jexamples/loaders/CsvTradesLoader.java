@@ -72,6 +72,7 @@ public class CsvTradesLoader {
             }
         }
 
+
         TimeSeries series = new BaseTimeSeries();
         if ((lines != null) && !lines.isEmpty()) {
 
